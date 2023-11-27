@@ -1,0 +1,3 @@
+[submodule "lib/i2c_EEPROM"]
+	path = lib/i2c_EEPROM
+	url = git@github.com:Kariboo-Corp/i2c_EEPROM.git
